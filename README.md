@@ -2,6 +2,8 @@
 
 [Pangea-AI Chatbot](https://huggingface.co/chat/conversation/66d6e2d9b8e525d3193c0853)
 
+[Pangea People](https://originarios.vercel.app/)
+
 ## Problema? Que tratamos de resolver?
 
 PangeaAI es un proyecto colectivo concebido por Maria Luisa Angulo (Francia/El Salvador) y Marlon Barrios Solano (EE. UU./Venezuela) que explora desde un enfoque de investigación-creación, pedagogías horizontales y co-curaduría, las potencialidades de la inteligencia artificial (IA) generativa y el aprendizaje automático. Esta iniciativa busca investigar y contrarrestar los sesgos en la IA y en el Sur Global, planteando preguntas cruciales como:
