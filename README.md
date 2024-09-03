@@ -1,6 +1,8 @@
 # pangea-ai
 
-##Problema? Que tratamos de resolver?
+[Pangea-AI Chatbot](https://huggingface.co/chat/conversation/66d6e2d9b8e525d3193c0853)
+
+## Problema? Que tratamos de resolver?
 
 PangeaAI es un proyecto colectivo concebido por Maria Luisa Angulo (Francia/El Salvador) y Marlon Barrios Solano (EE. UU./Venezuela) que explora desde un enfoque de investigación-creación, pedagogías horizontales y co-curaduría, las potencialidades de la inteligencia artificial (IA) generativa y el aprendizaje automático. Esta iniciativa busca investigar y contrarrestar los sesgos en la IA y en el Sur Global, planteando preguntas cruciales como:
 
@@ -14,7 +16,7 @@ Pangea AI: Conocimiento y Recursos en IA
 
 El proyecto está orientado  a crear plataformas y software de acceso abierto que permitan a tecnólogos y creativos fomentar la innovación, especialmente en el Sur Global. Comprometido con estrategias descolonizadoras, Pangea AI trabaja activamente para eliminar los sesgos y otros desafíos que la IA presenta al mundo.
 
-##Iniciativas y ejes principales:  
+## Iniciativas y ejes principales:  
 
 Investigación-Creación: Desarrollo de obras digitales o performativas basadas en IA que puedan ser exhibidas en instalaciones performativa, o en la red y talleres.  Prototipos/pruebas/pilotos  ..Nuestra propia experiencia
 
@@ -32,7 +34,7 @@ Pasado especulativo / futuro especulativo
 Qué cosas podemos re-imaginar en relación al cuerpo, reconectar con la historia del Sur Global y 
 
 
-##Colaboraciones:
+## Colaboraciones:
 
 Pangea AI se basa en una sólida red de colaboraciones con reconocidas instituciones y organizaciones a nivel internacional:
 
@@ -67,12 +69,11 @@ Gilles Jobin Company, Switzerland
 
 Lake Studios Berlin, Germany
 
-##Financiamiento y Apoyo:
+## Financiamiento y Apoyo:
 
 En esta etapa piloto, el proyecto cuenta con el apoyo del CAME Center for Arts, Migration and Entrepreneurship y ha establecido alianzas tecnológicas con miembros de la industria como Huggingface, Fal.AI, y Alani, además de acceder al supercluster HyperGATOR de la University of Florida.
 
-##Objetivos Principales
-
+## Objetivos Principales
 
 
 Proporcionar formación especializada y recursos en aprendizaje profundo e IA generativa.
