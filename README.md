@@ -1,6 +1,6 @@
 # pangea-ai
 
-[Pangea-AI Chatbot](https://huggingface.co/chat/conversation/66d6e2d9b8e525d3193c0853)
+[Pangea-AI Chatbot](https://huggingface.co/chat/conversation/66d6e2d9b8e525d3193c0853)![Screenshot 2024-08-26 at 2 47 15 PM](https://github.com/user-attachments/assets/5b371f06-cdae-4c43-a10d-d4d3441e4b27)
 
 [Pangea People](https://originarios.vercel.app/)
 
