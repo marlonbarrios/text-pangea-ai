@@ -6,6 +6,75 @@
 
 [Pangea People](https://originarios.vercel.app/)
 
+Contact:
+
+mbarriossolano@ufl.edu
+
+malumalu.dakar@gmail.com
+
+# Problem: What are we trying to solve?
+
+**PangeaAI** is a collective project conceived by Maria Luisa Angulo (France/El Salvador) and Marlon Barrios Solano (USA/Venezuela) that explores, through a research-creation approach, horizontal pedagogies, and co-curation, the potential of generative artificial intelligence (AI) and machine learning. This initiative seeks to investigate and counteract the biases in AI and in the Global South, posing crucial questions such as:
+
+- Can we deconstruct machine learning and generative AI from a Global South perspective?
+- Can these technologies be tools for empowering creatives and artists from the Global South?
+- Can AI be a tool for decolonizing strategies and tactics?
+
+# Pangea AI: Knowledge and Resources in AI
+
+The project is aimed at creating open-access platforms and software that allow technologists and creatives to foster innovation, especially in the Global South. Committed to decolonial strategies, Pangea AI actively works to eliminate biases and other challenges that AI presents to the world.
+
+## Main Initiatives and Axes:
+
+- **Research-Creation**: Development of digital or performative works based on AI that can be exhibited in performative installations, online, or in workshops. Prototypes, tests, and pilots are based on our own experience.
+- **Facilitating Knowledge Migration**: Through workshops and training sessions on generative AI, machine learning, and decolonizing methodologies.
+- **Collaborative Creative Spaces**: Establishment of creative spaces for artists from Africa and Latin America, providing resources and training in AI and creative technology.
+- **Sharing Collective Processes**: Regular interviews with field leaders, curatorial mapping, publications, and interactive chatbots.
+- **Pangea AI Chatbot**: A dynamic knowledge repository, fed by situated experiences and the production of knowledge about the realities of the Global South, capable of fostering epistemic and ontological simulation processes and supporting creative processes from a decolonial need.
+
+## Collaborations:
+
+Pangea AI is based on a solid network of collaborations with recognized institutions and organizations worldwide:
+
+- [Center for Arts, Migration, and Entrepreneurship, University of Florida, USA](https://arts.ufl.edu/academics/center-for-arts-migration-and-entrepreneurship/)
+- [Metacreation Lab, Simon Fraser University, Vancouver, Canada](http://www.metacreation.net/)
+- [Universidad Autónoma de México (UNAM), Mexico](https://www.unam.mx/)
+- [Art Department, Universidad Javeriana, Bogotá, Colombia](https://www.javeriana.edu.co/)
+- [Federal University of Bahia (UFBA), Brazil](https://www.ufba.br/)
+- [Radiona, Croatia](https://radiona.org/)
+- [Nayle Lopez festival / Panorama Festival (Brazil)](https://www.panoramafestival.com/)
+- [Huggingface, France](https://huggingface.co/)
+- [Alias, France](https://www.aliasproduction.com/)
+- [CAME from UF/AI4Africa, USA](https://arts.ufl.edu/)
+- [Fal.AI, USA](https://fal.ai/)
+- [Centro de Cultura Digital, Mexico City](https://www.centroculturadigital.mx/)
+- [Centro Coreográfico Multicorps, Benin](https://multicorps.org/)
+- [TRIAS CULTURE, Senegal](https://www.trias-culture.org/)
+- [Gilles Jobin Company, Switzerland](https://www.gillesjobin.com/)
+- [Lake Studios Berlin, Germany](http://www.lakestudiosberlin.com/)
+
+## Funding and Support:
+
+In this pilot phase, the project is supported by the [CAME Center for Arts, Migration and Entrepreneurship](https://arts.ufl.edu/) and has established technological partnerships with industry members like [Huggingface](https://huggingface.co/), [Fal.AI](https://fal.ai/), and [Alani](https://alani.com/), with access to the [HyperGATOR supercluster at the University of Florida](https://www.rc.ufl.edu/services/hipergator/).
+
+## Main Objectives:
+
+- Provide specialized training and resources in deep learning and generative AI.
+- Develop and maintain open-source platforms for creative technologists.
+- Implement decolonizing strategies that transform colonial knowledge structures.
+- Address and eliminate biases in AI systems to ensure fair and ethical applications.
+- Provide access to cutting-edge technologies, models, and advanced datasets.
+- Foster a global network connecting knowledge production centers with industry and cutting-edge innovation, ensuring equitable access for the Global South.
+
+## Additional Guiding Questions for Our Project:
+
+- How can AI be used to amplify the voices and creative productions of marginalized communities in the Global South?
+- What ethical frameworks can we establish to ensure the responsible use of AI in creative practices?
+- How can generative AI and machine learning create sustainable and resilient artistic practices in the Global South?
+- How can we foster intercultural collaborations using AI technologies to bridge the gaps in artistic and technological innovation between the Global South and the rest of the world?
+
+This project is framed within a vision where AI, creativity, and ethical considerations intersect deeply in the context of the Global South, redefining what it means to be a platform for cultural and technological exchange in the digital age.
+
 ## Problema? Que tratamos de resolver?
 
 PangeaAI es un proyecto colectivo concebido por Maria Luisa Angulo (Francia/El Salvador) y Marlon Barrios Solano (EE. UU./Venezuela) que explora desde un enfoque de investigación-creación, pedagogías horizontales y co-curaduría, las potencialidades de la inteligencia artificial (IA) generativa y el aprendizaje automático. Esta iniciativa busca investigar y contrarrestar los sesgos en la IA y en el Sur Global, planteando preguntas cruciales como:
