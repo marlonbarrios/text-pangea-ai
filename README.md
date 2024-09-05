@@ -1,5 +1,3 @@
-# pangea-ai
-
 ![Screenshot 2024-08-26 at 2 47 15 PM](https://github.com/user-attachments/assets/5b371f06-cdae-4c43-a10d-d4d3441e4b27)
 
 [Pangea-AI Chatbot](https://hf.co/chat/assistant/66ccca1c8031bbc413ee5c17)
