@@ -78,7 +78,7 @@ In this pilot phase, the project is supported by the [CAME Center for Arts, Migr
 
 This project is framed within a vision where AI, creativity, and ethical considerations intersect deeply in the context of the Global South, redefining what it means to be a platform for cultural and technological exchange in the digital age.
 
-## Suppoted by CAME Center for Arts, Migration and Entrepreneurship from the Collge of the Arts of the University of Florida.
+## Suppoted by [CAME Center for Arts, Migration and Entrepreneurship from the Collge of the Arts of the University of Florida](https://arts.ufl.edu/sites/center-for-arts-migration-and-entrepreneurship/about-the-center/)
 
 ## Pangea-AI- Slides Presentation for  ICA Live Art Festival
 
