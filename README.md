@@ -171,5 +171,5 @@ Finish with an invitation to collaborate in several languages... spacial for the
 
 
 
-<img src="https://github.com/user-attachments/assets/04266236-2984-46be-b7b1-adc17cd2b94e" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="650" height="650">
+<img src="https://github.com/user-attachments/assets/04266236-2984-46be-b7b1-adc17cd2b94e" alt="QR code" width="350" height="350">
 
