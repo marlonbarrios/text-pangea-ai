@@ -168,3 +168,8 @@ Slide 9: Conclusion
  
 Slide 10:invitation
 Finish with an invitation to collaborate in several languages... spacial for the ICA 2024 Festival...
+
+![pangea](https://github.com/user-attachments/assets/04266236-2984-46be-b7b1-adc17cd2b94e)
+
+
+
