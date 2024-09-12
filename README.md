@@ -1,9 +1,14 @@
 
 <img src="https://github.com/user-attachments/assets/5b371f06-cdae-4c43-a10d-d4d3441e4b27" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="450" height="450">
 
+[Presentation Pangea.IA- ICA FESTIVAL.pdf](https://github.com/user-attachments/files/16985783/Presentation.Pangea.IA-.ICA.FESTIVAL.pdf)
+
 [Pangea-AI Chatbot](https://hf.co/chat/assistant/66ccca1c8031bbc413ee5c17)
 
 [Pangea People](https://originarios.vercel.app/)
+
+[Presentation Pangea.IA- ICA FESTIVAL.pdf](https://github.com/user-attachments/files/16985783/Presentation.Pangea.IA-.ICA.FESTIVAL.pdf)
+
 
 [Video Play List](https://youtube.com/playlist?list=PLC2ijZ2U-avigrHibNpeudp2hd4hrAWrS&si=xLUQ0c-ZuvFvgZgT)
 
